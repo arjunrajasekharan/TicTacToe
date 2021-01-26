@@ -18,5 +18,9 @@ Procedure to Run the game:
   ● Click on the box in which you want to place your symbol. 
 
   ● Follow the prompts in the status bar and enjoy!
+  
+# Screenshot of a game 
+  
+  ![Alt text](GameScreenshot.png)
 
 
