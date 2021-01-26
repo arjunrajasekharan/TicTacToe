@@ -19,7 +19,7 @@ Procedure to Run the game:
 
   ● Follow the prompts in the status bar and enjoy!
   
-# Screenshot of a game 
+# Output 
   
   ![Alt text](GameScreenshot.png)
 
