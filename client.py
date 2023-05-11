@@ -106,7 +106,7 @@ while running:
                 playing="True"
                 print("restart")
                 if not connection_established:
-                    grig.game_over=True
+                    grid.game_over=True
 
             elif event.key ==pygame.K_ESCAPE:
                 running=False
